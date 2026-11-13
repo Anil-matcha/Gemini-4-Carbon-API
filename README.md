@@ -6,6 +6,7 @@ Call Google's Gemini 4 Carbon through Muapi's asynchronous REST API, with copy-p
 
 ## Related Projects
 
+- [Gemini-4-Hydrogen-API](https://github.com/Anil-matcha/Gemini-4-Hydrogen-API)
 - [awesome-gemini-4-carbon](https://github.com/Anil-matcha/awesome-gemini-4-carbon)
 - [awesome-abliterated-llms](https://github.com/Anil-matcha/awesome-abliterated-llms)
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
